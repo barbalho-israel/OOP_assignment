@@ -1,3 +1,4 @@
+package ClassesAtributos;
 public enum DiaSemana {
     SEGUNDA,
     TERCA,
