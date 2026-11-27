@@ -1,5 +1,4 @@
 package ClassesAtributos;
-import java.security.InvalidAlgorithmParameterException;
 
 public class Tempo {
     private DiaSemana dia;
